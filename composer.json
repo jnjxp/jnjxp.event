@@ -1,6 +1,7 @@
 {
     "name": "jnjxp/event",
     "description": "Event dispatching with DI resolution",
+    "homepage":"https://github.com/fusible/fusible.event-provider",
     "type": "library",
     "license": "MIT",
     "authors": [
